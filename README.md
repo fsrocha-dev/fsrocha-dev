@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**fsrocha-dev/fsrocha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Frank Rocha. I've been working on web projects for 10+ years. 
 
-Here are some ideas to get you started:
+My prefered tech stack is Laravel, Vue, MySQL, Docker, Redis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on:
+
+- FullStack developer at Bukly.com
+- Open source Laravel package for Brazilian gateways
+
+### 📫 How to reach me: 
+
+By email: contato.frankrocha@gmail.com
+
+#### "Not knowing it was impossible, he went there and did it." - Jean Cocteau 
