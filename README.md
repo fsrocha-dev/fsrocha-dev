@@ -13,4 +13,13 @@ My prefered tech stack is Laravel, Vue, MySQL, Docker, Redis
 
 By email: contato.frankrocha@gmail.com
 
+### 📺 Latest Videos on YouTube
+
+<!-- YOUTUBE:START -->
+- [Laravel Livewire - Criando um Todo-list!](https://www.youtube.com/watch?v=NrEDKe03vkc)
+- [Laravel - Estrutura de domínios](https://www.youtube.com/watch?v=t_KByV1pwgs)
+- [Laravel - Trabalhando com módulos](https://www.youtube.com/watch?v=y6XKbQor_P4)
+- [Laravel - Trabalhando com repository](https://www.youtube.com/watch?v=CqsJPn6uNB8)
+<!-- YOUTUBE:END -->
+
 #### "Not knowing it was impossible, he went there and did it." - Jean Cocteau 
