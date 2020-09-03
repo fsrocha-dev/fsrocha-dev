@@ -16,6 +16,7 @@ By email: contato.frankrocha@gmail.com
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Laravel Livewire - Criando SPA com TurboLinks!](https://www.youtube.com/watch?v=9vDDbfHUmVE)
 - [Laravel Livewire - Criando um Todo-list!](https://www.youtube.com/watch?v=NrEDKe03vkc)
 - [Laravel - Estrutura de domínios](https://www.youtube.com/watch?v=t_KByV1pwgs)
 - [Laravel - Trabalhando com módulos](https://www.youtube.com/watch?v=y6XKbQor_P4)
