@@ -2,11 +2,11 @@
 
 I'm Frank Rocha. I've been working on web projects for 10+ years. 
 
-My prefered tech stack is Laravel, Vue, MySQL, Docker, Redis
+Love teaching what I know, and planning software structures.
 
 ### 🔭 I’m currently working on:
 
-- FullStack developer at Bukly.com
+- Sênior fullstack instructor at betrybe.com
 - Open source Laravel package for Brazilian gateways
 
 ### 📫 How to reach me: 
