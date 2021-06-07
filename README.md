@@ -6,7 +6,7 @@ Love teaching what I know, and planning software structures.
 
 ### 🔭 I’m currently working on:
 
-- Sênior fullstack instructor at betrybe.com
+- Javascript instructor at betrybe.com
 - Open source Laravel package for Brazilian gateways
 
 ### 📫 How to reach me: 
