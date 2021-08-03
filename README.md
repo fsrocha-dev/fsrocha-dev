@@ -28,6 +28,7 @@ By email: contato.frankrocha@gmail.com
 - [Laravel - Trabalhando com repository](https://www.youtube.com/watch?v=CqsJPn6uNB8)
 <!-- YOUTUBE:END -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fsrocha-dev" alt="frank-rocha" /> </p>
+
+<p align="left" style="visibility: hidden;"> <img src="https://komarev.com/ghpvc/?username=fsrocha-dev" alt="frank-rocha" /> </p>
 
 #### "Not knowing it was impossible, he went there and did it." - Jean Cocteau 
