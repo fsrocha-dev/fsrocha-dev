@@ -29,6 +29,4 @@ By email: contato.frankrocha@gmail.com
 <!-- YOUTUBE:END -->
 
 
-<p align="left" style="visibility: hidden;"> <img src="https://komarev.com/ghpvc/?username=fsrocha-dev" alt="frank-rocha" /> </p>
-
 #### "Not knowing it was impossible, he went there and did it." - Jean Cocteau 
