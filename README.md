@@ -11,7 +11,7 @@ Love teaching what I know, and planning software structures.
 
 ### 🔭 I’m currently working on:
 
-- Javascript instructor at betrybe.com
+- Javascript instructor at Driven.com.br
 - Open source Laravel package for Brazilian gateways
 
 ### 📫 How to reach me: 
